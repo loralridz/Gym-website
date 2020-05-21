@@ -146,4 +146,4 @@ EMAIL_HOST_USER = 'landcustomers@gmail.com'
 EMAIL_HOST_PASSWORD = 'RIDA2000'
 
 
-django_ heroku.settings(locals())
+django_heroku.settings(locals())
